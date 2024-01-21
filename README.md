@@ -36,3 +36,50 @@
   </picture>
 
 </div>
+
+# About me
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+  
+### 🏢 Education
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+[University of Cambridge](https://www.tuhuimap.com/) &emsp; 📌 01/2023 - 01/2027
+  
+  - PhD in Natural Language Processing
+  - 工作内容：杂活
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+[University of Cambridge](https://www.nio.cn/) &emsp; 📌 10/2022 - 01/2023
+  
+  - 工作岗位：Web前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+[Queen Mary University of London](https://www.nio.cn/) &emsp; 📌 09/2018 - 07/2022
+  
+  - 工作岗位：Web前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+</td></tr>
+
+<tr><td>
