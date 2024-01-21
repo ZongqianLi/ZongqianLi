@@ -53,6 +53,8 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+<div>&nbsp;</div>
+
 </td></tr>
 
 <tr><td>
@@ -86,6 +88,40 @@
     - 2020 Outstanding Student Model (Top 0.05%)
     - 2022 Excellent Graduate Award
 
+  <div>&nbsp;</div>
+
 </td></tr>
 
 <tr><td>
+  
+### 🏢 Computer Experience
+
+<img align="right" width="88" src="https://wx3.sinaimg.cn/mw690/c675d894gy1hm1lnq1clmj204y04z3z5.jpg" />
+
+  - Langauge Technology Lab, University of Cambridge &emsp; 📌 01/2023 - Now
+  
+    - PhD Project
+   
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+
+<img align="right" width="88" src="https://media.licdn.com/dms/image/C560BAQE5E718Wfoxhw/company-logo_200_200/0/1679499930704/cavendishcambridge_logo?e=1714003200&v=beta&t=9DJ6eWck-LnqaUz97NSU8lunGeMOIOMaEHLhZgO08Dc" />
+
+  - Cavendish Laboratory, University of Cambridge &emsp; 📌 10/2022 - 01/2023
+  
+    - MPhil Project
+
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+
+<img align="right" width="88" src="https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_200_200/0/1631309794782?e=1714003200&v=beta&t=CsuNtw3JFBUhMYoyXJUMi1VUWo5V0LU6TIGJwd6VCHc" />
+
+  - Department of Computer Science and Technology, Tsinghua University &emsp; 📌 09/2018 - 07/2022
+  
+    - Research Intern
+
+  <div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+</td></tr>
