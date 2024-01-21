@@ -26,7 +26,6 @@
     <a href="https://twitter.com/Zongqian_Li"><img src="https://img.shields.io/badge/@Zongqian_Li-Twitter-07c160" /></a>&emsp;
     <a href="https://www.linkedin.com/in/zongqian-li-b0833219b/"><img src="https://img.shields.io/badge/@Zongqian_Li-Linkedin-ff69b4" /></a>&emsp;
     <a href="https://www.facebook.com/profile.php?id=100090575288484"><img src="https://img.shields.io/badge/@Zongqian_Li-Facebook-c32136" /></a>&emsp;
-    ![visitors](https://visitor-badge.glitch.me/badge?ZongqianLi=ZongqianLi&left_color=green&right_color=red)
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
