@@ -1,9 +1,3 @@
-<style>
-  .full-width-table {
-    width: 100%;
-  }
-</style>
-
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -45,7 +39,7 @@
 
 # About me
 
-<table class="full-width-table">
+<table>
   
 <tr><td>
 
@@ -53,10 +47,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-  - Believe in innovation, believe in taking risks
-  - Believe in the power of persistence and the compound effect
-  - Believe in humility, believe in continuous learning and evolution
-  - Believe in the boundless enthusiasm of ambition and the courage to not fear giants
+<p>&emsp;&emsp;Believe in innovation, believe in taking risks</p>
+<p>&emsp;&emsp;Believe in the power of persistence and the compound effect</p>
+<p>&emsp;&emsp;Believe in humility, believe in continuous learning and evolution</p>
+<p>&emsp;&emsp;Believe in the boundless enthusiasm of ambition and the courage to not fear giants</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 <div>&nbsp;</div>
 
