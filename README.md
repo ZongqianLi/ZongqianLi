@@ -96,7 +96,7 @@
   
 ### 🏢 Computer Experience
 
-<img align="right" width="88" src="https://wx3.sinaimg.cn/mw690/c675d894gy1hm1lnq1clmj204y04z3z5.jpg" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/13961564?s=200&v=4" />
 
   - **Langauge Technology Lab, University of Cambridge &emsp; 📌 01/2023 - Now**
   
