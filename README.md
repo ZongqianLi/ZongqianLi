@@ -63,7 +63,7 @@
 
 <img align="right" width="88" src="https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_200_200/0/1663833279033/university_of_cambridge_logo?e=1714003200&v=beta&t=hJCm5482P75R2CEfTwSE5plsqBxgv8YTFRyo9xc4E1U" />
 
-  - University of Cambridge &emsp; 📌 01/2023 - 01/2027
+  - **University of Cambridge &emsp; 📌 01/2023 - 01/2027**
   
     - PhD in Natural Language Processing
     - Cambridge International Scholarship, Cambridge Trust Scholar
@@ -72,7 +72,7 @@
 
 <img align="right" width="88" src="https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_200_200/0/1663833279033/university_of_cambridge_logo?e=1714003200&v=beta&t=hJCm5482P75R2CEfTwSE5plsqBxgv8YTFRyo9xc4E1U" />
 
-  - University of Cambridge &emsp; 📌 10/2022 - 01/2023
+  - **University of Cambridge &emsp; 📌 10/2022 - 01/2023**
   
     - MPhil in Physics
 
@@ -81,7 +81,7 @@
 
 <img align="right" width="88" src="https://media.licdn.com/dms/image/D4E0BAQEP4F_lVG4Fow/company-logo_200_200/0/1690809151089/queen_mary_university_of_london_logo?e=1714003200&v=beta&t=bAk-LD57IuEA51ds9QRw5rmp9Nss1oFUeXTA43ko21c" />
 
-  - Queen Mary University of London &emsp; 📌 09/2018 - 07/2022
+  - **Queen Mary University of London &emsp; 📌 09/2018 - 07/2022**
   
     - BEng with Hons in Materials Science and Engineering
     - Total GPA: 82.38% (UK scale), First Class with Honours, School Rank: 1/234
@@ -98,7 +98,7 @@
 
 <img align="right" width="88" src="https://wx3.sinaimg.cn/mw690/c675d894gy1hm1lnq1clmj204y04z3z5.jpg" />
 
-  - Langauge Technology Lab, University of Cambridge &emsp; 📌 01/2023 - Now
+  - **Langauge Technology Lab, University of Cambridge &emsp; 📌 01/2023 - Now**
   
     - PhD Project
    
@@ -107,7 +107,7 @@
 
 <img align="right" width="88" src="https://media.licdn.com/dms/image/C560BAQE5E718Wfoxhw/company-logo_200_200/0/1679499930704/cavendishcambridge_logo?e=1714003200&v=beta&t=9DJ6eWck-LnqaUz97NSU8lunGeMOIOMaEHLhZgO08Dc" />
 
-  - Cavendish Laboratory, University of Cambridge &emsp; 📌 10/2022 - 01/2023
+  - **Cavendish Laboratory, University of Cambridge &emsp; 📌 10/2022 - 01/2023**
   
     - MPhil Project
 
@@ -116,7 +116,7 @@
 
 <img align="right" width="88" src="https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_200_200/0/1631309794782?e=1714003200&v=beta&t=CsuNtw3JFBUhMYoyXJUMi1VUWo5V0LU6TIGJwd6VCHc" />
 
-  - Department of Computer Science and Technology, Tsinghua University &emsp; 📌 09/2018 - 07/2022
+  - **Department of Computer Science and Technology, Tsinghua University &emsp; 📌 09/2018 - 07/2022**
   
     - Research Intern
 
