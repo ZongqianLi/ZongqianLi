@@ -16,6 +16,8 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -25,8 +27,6 @@
     <a href="https://twitter.com/Zongqian_Li"><img src="https://img.shields.io/badge/@Zongqian_Li-Twitter-07c160" /></a>&emsp;
     <a href="https://www.linkedin.com/in/zongqian-li-b0833219b/"><img src="https://img.shields.io/badge/@Zongqian_Li-Linkedin-ff69b4" /></a>&emsp;
     <a href="https://www.facebook.com/profile.php?id=100090575288484"><img src="https://img.shields.io/badge/@Zongqian_Li-Facebook-c32136" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
