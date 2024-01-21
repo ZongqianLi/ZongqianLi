@@ -59,26 +59,32 @@
   
 ### 🏢 Education
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_200_200/0/1663833279033/university_of_cambridge_logo?e=1714003200&v=beta&t=hJCm5482P75R2CEfTwSE5plsqBxgv8YTFRyo9xc4E1U" />
 
-[University of Cambridge](https://www.tuhuimap.com/) &emsp; 📌 01/2023 - 01/2027
+  - University of Cambridge &emsp; 📌 01/2023 - 01/2027
   
-  - PhD in Natural Language Processing
-  - 工作内容：杂活
+    - PhD in Natural Language Processing
+    - Cambridge International Scholarship, Cambridge Trust Scholar
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+  <div>&nbsp;</div>
 
-[University of Cambridge](https://www.nio.cn/) &emsp; 📌 10/2022 - 01/2023
+<img align="right" width="88" src="https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_200_200/0/1663833279033/university_of_cambridge_logo?e=1714003200&v=beta&t=hJCm5482P75R2CEfTwSE5plsqBxgv8YTFRyo9xc4E1U" />
+
+  - University of Cambridge &emsp; 📌 10/2022 - 01/2023
   
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+    - MPhil in Physics
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
 
-[Queen Mary University of London](https://www.nio.cn/) &emsp; 📌 09/2018 - 07/2022
+<img align="right" width="88" src="https://media.licdn.com/dms/image/D4E0BAQEP4F_lVG4Fow/company-logo_200_200/0/1690809151089/queen_mary_university_of_london_logo?e=1714003200&v=beta&t=bAk-LD57IuEA51ds9QRw5rmp9Nss1oFUeXTA43ko21c" />
+
+  - Queen Mary University of London &emsp; 📌 09/2018 - 07/2022
   
-  - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+    - BEng with Hons in Materials Science and Engineering
+    - Total GPA: 82.38% (UK scale), First Class with Honours, School Rank: 1/234
+    - 2020 Outstanding Student Model (Top 0.05%)
+    - 2022 Excellent Graduate Award
 
 </td></tr>
 
