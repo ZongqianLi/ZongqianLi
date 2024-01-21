@@ -20,7 +20,7 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/cam.ac.uk-Email-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/cam.ac.uk-Email-blue" /></a>&emsp;
     <a href="https://github.com/ZongqianLi"><img src="https://img.shields.io/badge/@ZongqianLi-Github-blue" /></a>&emsp;
     <a href="https://huggingface.co/ZongqianLi"><img src="https://img.shields.io/badge/@ZongqianLi-Huggingface-c32136" /></a>&emsp;
     <a href="https://twitter.com/Zongqian_Li"><img src="https://img.shields.io/badge/@Zongqian_Li-Twitter-07c160" /></a>&emsp;
