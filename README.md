@@ -1,3 +1,9 @@
+<style>
+  .full-width-table {
+    width: 100%;
+  }
+</style>
+
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -39,7 +45,7 @@
 
 # About me
 
-<table>
+<table class="full-width-table">
   
 <tr><td>
 
