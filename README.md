@@ -51,6 +51,7 @@
 <p>&emsp;&emsp;Believe in the power of persistence and the compound effect</p>
 <p>&emsp;&emsp;Believe in humility, believe in continuous learning and evolution</p>
 <p>&emsp;&emsp;Believe in the boundless enthusiasm of ambition and the courage to not fear giants</p>
+<p><strong>&emsp;&emsp;Do not believe in authority, do not fear challenges, only believe in personal practice and the cognition gained through it</strong></p>
 
 <div>&nbsp;</div>
 
