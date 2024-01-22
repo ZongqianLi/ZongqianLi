@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Welcome+to+Zongqian+(Mark)+Li's+homepage;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%60%B0%E6%9D%8E%E5%AE%97%E8%B0%A6%E7%9A%84%E4%B8%BB%E9%A1%B5" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Welcome+to+Zongqian+(Mark)+Li's+homepage;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%9D%8E%E5%AE%97%E8%B0%A6%E7%9A%84%E4%B8%BB%E9%A1%B5" alt="Typing SVG" />
     </a>
   </div>
 
@@ -20,12 +20,12 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href=""><img src="https://img.shields.io/badge/cam.ac.uk-Email-blue" /></a>&emsp;
-    <a href="https://github.com/ZongqianLi"><img src="https://img.shields.io/badge/@ZongqianLi-Github-blue" /></a>&emsp;
-    <a href="https://huggingface.co/ZongqianLi"><img src="https://img.shields.io/badge/@ZongqianLi-Huggingface-c32136" /></a>&emsp;
-    <a href="https://twitter.com/Zongqian_Li"><img src="https://img.shields.io/badge/@Zongqian_Li-Twitter-07c160" /></a>&emsp;
-    <a href="https://www.linkedin.com/in/zongqian-li-b0833219b/"><img src="https://img.shields.io/badge/@Zongqian_Li-Linkedin-ff69b4" /></a>&emsp;
-    <a href="https://www.facebook.com/profile.php?id=100090575260484"><img src="https://img.shields.io/badge/@Zongqian_Li-Facebook-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/-Email-blue" /></a>&emsp;
+    <a href="https://github.com/ZongqianLi"><img src="https://img.shields.io/badge/-Github-blue" /></a>&emsp;
+    <a href="https://huggingface.co/ZongqianLi"><img src="https://img.shields.io/badge/-Huggingface-c32136" /></a>&emsp;
+    <a href="https://twitter.com/Zongqian_Li"><img src="https://img.shields.io/badge/-Twitter-07c160" /></a>&emsp;
+    <a href="https://www.linkedin.com/in/zongqian-li-b0833219b/"><img src="https://img.shields.io/badge/-Linkedin-ff69b4" /></a>&emsp;
+    <a href="https://www.facebook.com/profile.php?id=100090575260484"><img src="https://img.shields.io/badge/-Facebook-c32136" /></a>&emsp;
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
