@@ -37,7 +37,7 @@
 
 </div>
 
-# Background
+# About Me
 
 <table>
   
@@ -56,6 +56,12 @@
 <div>&nbsp;</div>
 
 </td></tr>
+
+</table>
+
+# Background
+
+<table>
 
 <tr><td>
   
@@ -125,3 +131,5 @@
 <div>&nbsp;</div>
 
 </td></tr>
+
+</table>
