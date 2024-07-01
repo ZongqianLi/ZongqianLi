@@ -76,4 +76,4 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - Research Intern
 - Supervisor: Prof. Jie Tang, Prof. Juanzi Li, Dr. Jifan Yu
 
-### Finance: 
+
