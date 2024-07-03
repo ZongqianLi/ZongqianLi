@@ -49,7 +49,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 <div>&nbsp;</div>
 
-## 📖 Publications
+## 📖 Selected Publications
 
 <div>&nbsp;</div>
 
@@ -88,6 +88,13 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - Digital Consultant Intern
 - Mentor: Associate Xianlong Li
 
+<div>&nbsp;</div>
+
+## 🚀 Grants
+
+## 📚 Whole Publications
+
+<div>&nbsp;</div>
 
 
 
