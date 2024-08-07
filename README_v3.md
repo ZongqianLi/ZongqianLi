@@ -51,6 +51,23 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📖 Selected Publications
 
+**500xCompressor: Generalized Prompt Compression for Language Models**
+
+**Zongqian Li**, Yixuan Su, Nigel Collier
+
+_AAAI (Under Review) (ICORE A*)_
+
+| [Paper](https://arxiv.org/abs/2408.03094) | [Page](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) | [Codes](https://github.com/ZongqianLi/500xCompressor/tree/main) |
+
+
+**Auto-generating Question-Answering Datasets with Domain-Specific Knowledge for Language Models in Scientific Tasks**
+
+**Zongqian Li**, Jacqui Cole
+
+_Chemical Science (Under Review) (JCR Q1)_
+
+| [Paper]() | [Page](https://github.com/ZongqianLi/SolarCellBERT/blob/main/README.md) | [Codes](https://github.com/ZongqianLi/SolarCellBERT/tree/main) | [Demo](https://huggingface.co/spaces/ZongqianLi/SolarCellBERT) |
+
 <div>&nbsp;</div>
 
 ## 🎓 Education
