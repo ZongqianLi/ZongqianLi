@@ -90,18 +90,18 @@ _Chemical Science (Under Review) (JCR Q1)_
 
 ## 🧱 Experience
 ### Computers: 
-**[2022.05-2022.10] Tsinghua University**, Beijing, China
+**[2022.05-2022.10] Tsinghua University**
 - Department of Computer Science and Technology
 - Research Intern
 - Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)
 
 ### Finance: 
-**[2023.07-2024.01] ZhenFund**, Beijing, China
+**[2023.07-2024.01] ZhenFund**
 - Top 2 Early-stage VC in China
 - Investment Intern
 - Mentor: Partner Yuan Liu
 
-**[2023.04-2023.07] Deloitte**, Shanghai, China
+**[2023.04-2023.07] Deloitte**
 - Digital Consultant Intern
 - Mentor: Associate Xianlong Li
 
