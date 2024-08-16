@@ -64,7 +64,7 @@ _AAAI (Under Review) (ICORE A*)_
 
 **Zongqian Li**, Jacqui Cole
 
-_Chemical Science (Under Review) (JCR Q1)_
+_Chemical Science (Under Review) (SCIE JCR Q1, IF=7.6)_
 
 | [Paper]() | [Page](https://github.com/ZongqianLi/SolarCellBERT/blob/main/README.md) | [Codes](https://github.com/ZongqianLi/SolarCellBERT/tree/main) | [Demo](https://huggingface.co/spaces/ZongqianLi/SolarCellBERT) |
 
