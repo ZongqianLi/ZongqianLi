@@ -50,6 +50,14 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 <div>&nbsp;</div>
 
 ## 📖 Selected Publications
+**[Survey] Prompt Compression For Large Language Models: A Survey**
+
+**Zongqian Li**, Yixuan Su, Nigel Collier
+
+_ACL (Under Review) (ICORE A*)_
+
+| [Paper]() | [Page]() |
+
 
 **[LLM Efficiency] 500xCompressor: Generalized Prompt Compression for Language Models**
 
@@ -96,6 +104,10 @@ _Chemical Science (Under Review) (SCIE JCR Q1, IF=7.6)_
 - Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)
 
 ### Finance: 
+**[2024.09-Now] WorldQuant**
+- quantitative hedge fund, AUM 9 billion USD
+- Research Consultant
+
 **[2023.07-2024.01] ZhenFund**
 - Top 2 Early-stage VC in China
 - Investment Intern
@@ -104,6 +116,10 @@ _Chemical Science (Under Review) (SCIE JCR Q1, IF=7.6)_
 **[2023.04-2023.07] Deloitte**
 - Digital Consultant Intern
 - Mentor: Associate Xianlong Li
+
+### Others:
+**[2024.09-Now] ELE, Alibaba Group**
+- Rider
 
 <div>&nbsp;</div>
 
