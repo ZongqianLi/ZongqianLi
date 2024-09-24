@@ -59,7 +59,7 @@ _ACL (Under Review) (ICORE A*)_
 | [Paper]() | [Page]() |
 
 
-**[LLM Efficiency] 500xCompressor: Generalized Prompt Compression for Language Models**
+**500xCompressor: Generalized Prompt Compression for Language Models [LLM Efficiency]**
 
 **Zongqian Li**, Yixuan Su, Nigel Collier
 
@@ -68,7 +68,7 @@ _AAAI (Under Review) (ICORE A*)_
 | [Paper](https://arxiv.org/abs/2408.03094) | [Page](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) | [Codes](https://github.com/ZongqianLi/500xCompressor/tree/main) |
 
 
-**[AI4Science] Auto-generating Question-Answering Datasets with Domain-Specific Knowledge for Language Models in Scientific Tasks**
+**Auto-generating Question-Answering Datasets with Domain-Specific Knowledge for Language Models in Scientific Tasks [AI4Science]**
 
 **Zongqian Li**, Jacqui Cole
 
