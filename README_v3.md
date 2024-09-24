@@ -72,7 +72,7 @@ _AAAI (Under Review) (ICORE A*)_
 
 **Zongqian Li**, Jacqui Cole
 
-_Digital Discovery (Under Review) (Q1, IF=6.2)_
+_Digital Discovery (Under Review) (JCR Q1, IF=6.2)_
 
 | [Paper]() | [Page](https://github.com/ZongqianLi/SolarCellBERT/blob/main/README.md) | [Codes](https://github.com/ZongqianLi/SolarCellBERT/tree/main) | [Demo](https://huggingface.co/spaces/ZongqianLi/SolarCellBERT) |
 
