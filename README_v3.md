@@ -50,7 +50,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 <div>&nbsp;</div>
 
 ## 📖 Selected Publications
-**[Survey] Prompt Compression For Large Language Models: A Survey**
+**Prompt Compression For Large Language Models: A Survey [Survey]**
 
 **Zongqian Li**, Yixuan Su, Nigel Collier
 
