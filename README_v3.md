@@ -54,7 +54,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 **Zongqian Li**, Yixuan Su, Nigel Collier
 
-_ACL (Under Review) (ICORE A*)_
+_NAACL (Under Review) (ICORE A*)_
 
 | [Paper]() | [Page]() |
 
