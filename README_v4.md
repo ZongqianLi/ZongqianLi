@@ -1,5 +1,3 @@
-这是普通的文字，而这段文字是<span style="color: red;">红色的</span>。
-
 ## &#x1F64B; About Me
 
 I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I am interested in large language model, efficiency, agent, and multimodality. I have an interdisciplinary background in computer science, physics, and materials science. I also have internships in research institutes and finance companies.
