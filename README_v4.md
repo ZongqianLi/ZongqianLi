@@ -50,7 +50,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   Mentor: Associate Xianlong Li  
 
 #### Others:
-- <strong><span style="color: #03396c;">[2024.09-Now] ELE, Alibaba Group</span></strong>   
+- <strong><span style="color: #03396c;">[2024.09-2024.10] ELE, Alibaba Group</span></strong>   
   Rider
 
 <div>&nbsp;</div>
