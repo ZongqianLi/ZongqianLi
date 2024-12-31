@@ -27,7 +27,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 
 
-## &#x1F468;&#x200D;&#x1F4BB; Internships
+## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
 #### Computers: 
 - <strong><span style="color: #03396c;">[2022.05-2022.10] Tsinghua University</span></strong>   
