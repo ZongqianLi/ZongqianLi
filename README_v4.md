@@ -59,16 +59,36 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## &#x1F4DD; Publications 
 
-- <strong><span style="color: #03396c;">Prompt Compression For Large Language Models: A Survey</span></strong> [[Paper]]()  
-  **NAACL (Under Review) (ICORE A)**  
-  **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
+**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>**
 
-- <strong><span style="color: #03396c;">500xCompressor: Generalized Prompt Compression for Language Models</span></strong> [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Codes]](https://github.com/ZongqianLi/500xCompressor/tree/main)    
-  <strong>NAACL (Under Review) (ICORE A)</strong>   
-  **Zongqian Li**, Yixuan Su, Nigel Collier  
+- **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>**
+  
+  **Zongqian Li**, Yixuan Su, Nigel Collier
 
-- <strong><span style="color: #03396c;">Auto-generating Question-Answering Datasets with Domain-Specific Knowledge for Language Models in Scientific Tasks</span></strong> [[Paper]]() [[Page]](https://github.com/ZongqianLi/SolarCellBERT/blob/main/README.md) [[Codes]](https://github.com/ZongqianLi/SolarCellBERT/tree/main) [[Demo]](https://huggingface.co/spaces/ZongqianLi/SolarCellBERT)  
-  **Digital Discovery (Under Review) (JCR Q1, IF=6.2)**  
-  **Zongqian Li**, Jacqui Cole  
+  **_Under Review_**
+  
+- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Codes]](https://github.com/ZongqianLi/500xCompressor/tree/main)
+
+  **Zongqian Li**, Yixuan Su, Nigel Collier
+
+  **_Under Review_**
+  
+- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]]()  
+
+  **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier
+
+  **_Under Review_**
+  
+- **A Survey on Prompt Tuning <sup>EY</sup>**
+
+  **Zongqian Li**, Yixuan Su, Nigel Collier
+
+  **_Under Review_**
+  
+- **Auto-generating QA Datasets with Domain-specific Knowledge for LM in Scientific Tasks <sup>TS</sup>** [[Paper]]() [[Page]](https://github.com/ZongqianLi/SolarCellBERT/blob/main/README.md) [[Codes]](https://github.com/ZongqianLi/SolarCellBERT/tree/main) [[Demo]](https://huggingface.co/spaces/ZongqianLi/SolarCellBERT)  
+
+  **Zongqian Li**, Jacquiline Cole
+
+  **_Under Review_**
 
 <div>&nbsp;</div>
