@@ -54,7 +54,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📝 Publications 
 
-**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>**
+**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>, Evaluation <sup>V</sup>**
 
 - **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
@@ -79,5 +79,9 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETDS</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
   **Zongqian Li**, Jacquiline Cole  
   **_Digital Discovery (Q1)_**
+
+- **General Scales Unlock AI Evaluation with Explanatory and Predictive Power <sup>V</sup>** [[Paper]](https://arxiv.org/pdf/2503.06378)  
+  Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, ..., **Zongqian Li**, ..., Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo  
+  **_Under Review_**
 
 <div>&nbsp;</div>
