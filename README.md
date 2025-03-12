@@ -68,7 +68,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_Under Review_**
   
-- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]]()  
+- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
   **_NAACL 2025 Main (Selected Oral)_**
   
