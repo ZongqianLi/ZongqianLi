@@ -56,7 +56,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 **Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>, Evaluation <sup>V</sup>**
 
-- **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md)  
+- **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
   **_Under Review_**
   
@@ -64,11 +64,11 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_Under Review_**
   
-- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Codes]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
+- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_Under Review_**
   
-- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md)  
+- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
   **_NAACL 2025 Main (Selected Oral)_**
   
