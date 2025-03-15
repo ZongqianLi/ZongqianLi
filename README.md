@@ -23,7 +23,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - <strong><span style="color: #03396c;">[2018.09-2022.06] Queen Mary University of London</span></strong>   
   BEng with Hons in Materials Science and Engineering  
   First Class with Honours, Rank **1/234** in school  
-  Outstanding Student Model (**Top 0.03%**)  
+  Distinguished Student Scholar (**Top 0.03%**)  
 
 <div>&nbsp;</div>
 
