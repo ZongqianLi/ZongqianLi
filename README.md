@@ -56,7 +56,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 **Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>, Evaluation <sup>V</sup>**
 
-- **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
+- **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
   **_Under Review_**
   
