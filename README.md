@@ -70,7 +70,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   
 - **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_Under Review_**
+  **_ACL 2025 Main_**
   
 - **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
