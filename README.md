@@ -64,7 +64,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
   **_Under Review (Github 400+ Stars)_**
   
-- **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>**  
+- **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_Under Review_**
   
