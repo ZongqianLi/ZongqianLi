@@ -58,7 +58,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_Work in progress_**
+  **_Under Review_**
   
 - **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
