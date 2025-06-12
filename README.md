@@ -78,7 +78,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   
 - **A Survey on Prompt Tuning <sup>EY</sup>**  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_Under Review_**
+  **_ICML 2025 Workshop_**
   
 - **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETDS</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
   **Zongqian Li**, Jacquiline Cole  
