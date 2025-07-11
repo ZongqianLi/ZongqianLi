@@ -76,7 +76,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
   **_NAACL 2025 Main (Selected Oral)_**
   
-- **A Survey on Prompt Tuning <sup>EY</sup>**  
+- **A Survey on Prompt Tuning <sup>EY</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)    
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_ICML 2025 Workshop_**
   
