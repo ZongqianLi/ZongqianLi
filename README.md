@@ -54,7 +54,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📝 Publications 
 
-**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>Y</sup>, AI4Science <sup>S</sup>, Evaluation <sup>V</sup>**
+**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>**
 
 - **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
@@ -72,15 +72,15 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_ACL 2025 Main_**
   
-- **Prompt Compression for Large Language Models: A Survey <sup>EY</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
+- **Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
   **_NAACL 2025 Main (Selected Oral)_**
   
-- **A Survey on Prompt Tuning <sup>EY</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)    
+- **A Survey on Prompt Tuning <sup>ES</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)    
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_ICML 2025 Workshop_**
   
-- **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETDS</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
+- **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETD</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
   **Zongqian Li**, Jacquiline Cole  
   **_Digital Discovery (Q1)_**
 
