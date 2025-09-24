@@ -31,6 +31,9 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 🏔️ Experiences
 
+- <strong><span style="color: #03396c;">[2025.06-Now] Microsoft Research Asia</span></strong>   
+  Research Intern  
+
 - <strong><span style="color: #03396c;">[2024.09-2024.10] ELE, Alibaba Group</span></strong>   
   Rider
   
@@ -57,32 +60,32 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 **Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>**
 
 - **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
-  **Zongqian Li**, Yixuan Su, Nigel Collier  
+  **Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier  
   **_Under Review_**
+
+- **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)  
+  **Zongqian Li**, Yixuan Su, Nigel Collier  
+  **_NeurIPS 2025 Main_**
+
+- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
+  **Zongqian Li**, Yixuan Su, Nigel Collier  
+  **_ACL 2025 Main_**
+
+- **Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
+  **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
+  **_NAACL 2025 Main (Selected Oral)_**
+
+- **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETD</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
+  **Zongqian Li**, Jacquiline Cole  
+  **_Digital Discovery (Q1)_**
   
 - **ReasonGraph: Visualisation of Reasoning Paths <sup>R</sup>** [[Paper]](https://arxiv.org/abs/2503.03979) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
   **_ACL 2025 Demo (Github 450+ Stars)_**
   
-- **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)  
-  **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_NeurIPS 2025 Main_**
-  
-- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2408.03094) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
-  **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_ACL 2025 Main_**
-  
-- **Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://arxiv.org/abs/2410.12388) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
-  **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
-  **_NAACL 2025 Main (Selected Oral)_**
-  
 - **A Survey on Prompt Tuning <sup>ES</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)    
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_ICML 2025 Workshop_**
-  
-- **Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETD</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)  
-  **Zongqian Li**, Jacquiline Cole  
-  **_Digital Discovery (Q1)_**
 
 - **General Scales Unlock AI Evaluation with Explanatory and Predictive Power <sup>V</sup>** [[Paper]](https://arxiv.org/pdf/2503.06378) [[Page]](https://kinds-of-intelligence-cfi.github.io/ADELE/)  
   Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, ..., **Zongqian Li**, ..., Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo  
