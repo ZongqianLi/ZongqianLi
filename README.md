@@ -36,11 +36,6 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - <strong><span style="color: #03396c;">[2024.09-2024.10] ELE, Alibaba Group</span></strong>   
   Rider
-  
-- <strong><span style="color: #03396c;">[2022.05-2022.10] Tsinghua University</span></strong>   
-  Department of Computer Science and Technology  
-  Research Intern  
-  Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)   
 
 - <strong><span style="color: #03396c;">[2023.07-2024.01] ZhenFund</span></strong>   
   Top 2 Early-stage VC in China  
@@ -50,6 +45,11 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - <strong><span style="color: #03396c;">[2023.04-2023.07] Deloitte</span></strong>   
   NLP Developer  
   Mentor: Associate Xianlong Li
+
+- <strong><span style="color: #03396c;">[2022.05-2022.10] Tsinghua University</span></strong>   
+  Department of Computer Science and Technology  
+  Research Intern  
+  Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)   
 
 <div>&nbsp;</div>
 
