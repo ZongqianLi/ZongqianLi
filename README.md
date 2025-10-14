@@ -13,7 +13,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 - <strong><span style="color: #03396c;">[2024.01-Now] Univeristy of Cambridge</span></strong>  
   PhD in Natural Language Processing  
   Supervisor: [Prof. Nigel Collier](https://scholar.google.com/citations?user=ZMelBa0AAAAJ&hl=en&oi=ao)  
-  Fully funded by Cambridge International Scholarship, Cambridge Trust Scholar  
+  Fully funded by Cambridge International Scholarship, **Cambridge Trust Scholar**  
 
 - <strong><span style="color: #03396c;">[2023.10-2024.01] University of Cambridge</span></strong>   
   MPhil in Physics  
@@ -32,10 +32,11 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 ## 🏔️ Experiences
 
 - <strong><span style="color: #03396c;">[2025.06-Now] Microsoft Research Asia</span></strong>   
-  Research Intern  
+  Research Intern   
+  Supervisor: Dr. Shaohan Huang, Dr. Furu Wei   
 
 - <strong><span style="color: #03396c;">[2024.09-2024.10] ELE, Alibaba Group</span></strong>   
-  Rider
+  Delivery Driver   
 
 - <strong><span style="color: #03396c;">[2023.07-2024.01] ZhenFund</span></strong>   
   Top 2 Early-stage VC in China  
@@ -44,7 +45,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - <strong><span style="color: #03396c;">[2023.04-2023.07] Deloitte</span></strong>   
   NLP Developer  
-  Mentor: Associate Xianlong Li
+  Mentor: Associate Chenglong Li
 
 - <strong><span style="color: #03396c;">[2022.05-2022.10] Tsinghua University</span></strong>   
   Department of Computer Science and Technology  
@@ -89,7 +90,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   
 - **ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths <sup>R</sup>** [[Paper]](https://aclanthology.org/2025.acl-demo.14/) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)  
   **Zongqian Li**, Ehsan Shareghi, Nigel Collier  
-  **_ACL 2025 Demo (Github 450+ Stars)_**
+  **_ACL 2025 Demo (Github 500+ Stars)_**
   
 - **A Survey on Prompt Tuning <sup>ES</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)    
   **Zongqian Li**, Yixuan Su, Nigel Collier  
