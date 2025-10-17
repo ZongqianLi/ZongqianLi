@@ -33,7 +33,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - <strong><span style="color: #03396c;">[2025.06-Now] Microsoft Research Asia</span></strong>   
   Research Intern   
-  Supervisor: Dr. Shaohan Huang, Dr. Furu Wei   
+  Supervisor: [Dr. Shaohan Huang](https://buaahsh.github.io/), [Dr. Furu Wei](https://www.microsoft.com/en-us/research/people/fuwei/)   
 
 - <strong><span style="color: #03396c;">[2024.09-2024.10] ELE, Alibaba Group</span></strong>   
   Delivery Driver   
