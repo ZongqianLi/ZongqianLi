@@ -98,6 +98,6 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - **General Scales Unlock AI Evaluation with Explanatory and Predictive Power <sup>V</sup>** [[Paper]](https://arxiv.org/pdf/2503.06378) [[Page]](https://kinds-of-intelligence-cfi.github.io/ADELE/)  
   Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, ..., **Zongqian Li**, ..., Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo  
-  **_Under Review_**
+  **_Nature_**
 
 <div>&nbsp;</div>
