@@ -78,7 +78,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
   **Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier  
-  **_ICASSP 2026_**
+  **_ICASSP 2026 Main_**
 
 - **Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://aclanthology.org/2025.naacl-long.368/) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
