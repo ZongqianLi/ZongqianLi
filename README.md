@@ -65,20 +65,20 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **_Under Review_**  
 
 - **MicroCoder-Dataset: A Latest and Challenging Dataset for Training Modern Coding Models**  
-  **Zongqian Li**, Shaohan Huang, Tengchao Lv, Lei Cui, Nigel Collier, Furu Wei  
+  **Zongqian Li**, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei
   **_Under Review_**  
 
-- **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
-  **Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier  
-  **_Under Review_**
+- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
+  **Zongqian Li**, Yixuan Su, Nigel Collier  
+  **_ACL 2025 Main Long_**
 
 - **PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)  
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_NeurIPS 2025 Main_**
 
-- **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
-  **Zongqian Li**, Yixuan Su, Nigel Collier  
-  **_ACL 2025 Main Long_**
+- **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
+  **Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier  
+  **_ICASSP 2026_**
 
 - **Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://aclanthology.org/2025.naacl-long.368/) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)  
   **Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier  
