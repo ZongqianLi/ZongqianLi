@@ -60,11 +60,11 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 **Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>**
 
-- **Breaking Training Bottlenecks: Effective Reinforcement Learning for Modern Coding Models <sup>TR</sup>**  
+- **Breaking Training Bottlenecks: Effective Reinforcement Learning for Modern Coding Models <sup>TR</sup>** [[Paper]](https://arxiv.org/abs/2603.07777) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)  
   **Zongqian Li**, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, Li Dong, Nigel Collier, Furu Wei  
   **_Under Review_**  
 
-- **MicroCoder-Dataset: A Latest and Challenging Dataset for Training Modern Coding Models**  
+- **Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems** [[Paper]](https://arxiv.org/abs/2603.07779) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)  
   **Zongqian Li**, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei
   **_Under Review_**  
 
