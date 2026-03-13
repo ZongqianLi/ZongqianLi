@@ -65,7 +65,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **_Under Review_**  
 
 - **Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems** [[Paper]](https://arxiv.org/abs/2603.07779) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)  
-  **Zongqian Li**, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei
+  **Zongqian Li**, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei  
   **_Under Review_**  
 
 - **500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)  
