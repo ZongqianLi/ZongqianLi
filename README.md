@@ -76,7 +76,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
   **Zongqian Li**, Yixuan Su, Nigel Collier  
   **_NeurIPS 2025 Main_**
 
-- **Flexi-LoRA: Efficient LoRA Finetuning with Input-Aware Dynamic Ranks <sup>ET</sup>**  
+- **Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks <sup>ET</sup>**  
   **Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier  
   **_ICASSP 2026 Main_**
 
