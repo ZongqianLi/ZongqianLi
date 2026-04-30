@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Zongqian Li - Personal Homepage</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    /* Custom palette */
+    --bg:        #f3eee2;
+    --bg-alt:    #ede6d4;
+    --text:      #1a1714;
+    --text-soft: #4a443d;
+    --text-mute: #8a8278;
+    --rule:      #c9c1ad;
+    --accent:    #9c2a1a;
+    --accent-soft: #c14a30;
+    --highlight: #f2d68a;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; scroll-padding-top: 70px; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Source Serif 4', Charter, 'Iowan Old Style', Georgia, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a {
+    color: var(--text);
+    text-decoration: underline;
+    text-decoration-color: var(--rule);
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    transition: color 0.15s, text-decoration-color 0.15s;
+  }
+  a:hover {
+    color: var(--accent);
+    text-decoration-color: var(--accent);
+  }
+
+  /* ===== Layout ===== */
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 32px 28px 80px;
+  }
+
+  /* ===== Top nav ===== */
+  nav.top {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 14px 24px;
+    margin: 0;
+    font-family: 'Source Serif 4', Charter, 'Iowan Old Style', Georgia, serif;
+    font-size: 17px;
+    font-weight: 600;
+    background: rgba(243, 238, 226, 0.92);
+    backdrop-filter: saturate(140%) blur(10px);
+    -webkit-backdrop-filter: saturate(140%) blur(10px);
+    border-bottom: 1px solid var(--rule);
+  }
+  nav.top a {
+    color: var(--text);
+    text-decoration: none;
+    transition: color 0.18s;
+  }
+  nav.top a:hover { color: var(--accent); }
+  nav.top a.active { color: var(--accent); }
+
+  /* ===== Headings ===== */
+  h1 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.15;
+    margin: 0 0 16px;
+    letter-spacing: -0.01em;
+    color: var(--text);
+  }
+  h1 .cn {
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 10px;
+    color: var(--text-soft);
+  }
+
+  h2 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 1.2;
+    margin: 40px 0 18px;
+    letter-spacing: -0.01em;
+    color: var(--accent);
+  }
+
+  h3 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 24px 0 8px;
+    color: var(--accent);
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--rule);
+    margin: 36px 0;
+  }
+
+  p { margin: 0 0 14px; }
+
+  strong { font-weight: 600; color: var(--text); }
+  em { color: var(--text-soft); }
+
+  /* ===== Hero block ===== */
+  .role {
+    color: var(--text);
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+
+  /* ===== Social link row ===== */
+  .social {
+    margin-bottom: 8px;
+    font-size: 15px;
+  }
+  .social a {
+    color: var(--text-soft);
+    text-decoration: none;
+  }
+  .social a:hover { color: var(--accent); }
+  .social a + a::before {
+    content: " · ";
+    color: var(--text-mute);
+    margin: 0 4px;
+  }
+
+  /* ===== Education & Experience ===== */
+  .edu-timeline {
+    position: relative;
+    padding-left: 28px;
+    margin-bottom: 18px;
+  }
+  .edu-timeline:last-of-type { margin-bottom: 0; }
+
+  .edu-timeline::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    bottom: 8px;
+    width: 1px;
+    background: linear-gradient(180deg, var(--accent-soft), rgba(193, 74, 48, 0.15));
+    border-radius: 1px;
+  }
+
+  .edu-item {
+    position: relative;
+    margin-bottom: 22px;
+    padding-left: 16px;
+  }
+
+  .edu-item::before {
+    content: '';
+    position: absolute;
+    left: -24px;
+    top: 10px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent-soft);
+  }
+
+  /* 4-line entry: bold institution / role / supervisor / awards */
+  .edu-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-weight: 700;
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.35;
+    margin: 0 0 4px;
+    padding: 0;
+  }
+  .edu-head .date {
+    font-weight: 400;
+    color: var(--text-soft);
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .edu-head .tagline {
+    font-weight: 400;
+    font-style: italic;
+    color: var(--text-mute);
+    font-size: 14px;
+    margin-left: 4px;
+  }
+  .edu-row {
+    color: var(--text-soft);
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0 0 4px;
+    padding: 0;
+  }
+  .edu-row:last-child { margin-bottom: 0; }
+  .edu-row.role {
+    color: var(--text);
+    font-size: 15.5px;
+  }
+  .edu-row a {
+    color: var(--text-soft);
+    text-decoration: none;
+  }
+  .edu-row a:hover { color: var(--accent); }
+  .edu-row .hl {
+    background: linear-gradient(180deg, transparent 62%, var(--highlight) 62%);
+    color: var(--text);
+    font-weight: 600;
+    padding: 0 2px;
+  }
+
+  .edu-item.hidden { display: none; }
+  .edu-show-more {
+    display: inline-block;
+    margin: 0 0 0 44px;
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--text-soft);
+    font-family: inherit;
+    font-size: 15px;
+    font-style: italic;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .edu-show-more:hover { color: var(--accent); }
+
+  /* ===== Publications ===== */
+  #publications { counter-reset: pub-counter 11; }
+  .pub {
+    position: relative;
+    padding-left: 42px;
+    counter-increment: pub-counter -1;
+    margin-bottom: 30px;
+  }
+  .pub::before {
+    content: "[" counter(pub-counter) "]";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: 'Source Serif 4', serif;
+    color: var(--accent);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.35;
+    font-variant-numeric: tabular-nums;
+  }
+  .pub-title {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 1.35;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .pub-authors {
+    font-size: 15px;
+    color: var(--text-soft);
+    margin-bottom: 4px;
+    line-height: 1.5;
+  }
+  .pub-authors .me { color: var(--text); font-weight: 600; }
+  .pub-venue {
+    font-size: 15px;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .pub-venue strong { color: var(--accent); }
+  .pub-title .tag {
+    display: inline-block;
+    padding: 0 6px;
+    background: transparent;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 3px;
+    font-family: 'Source Serif 4', Charter, Georgia, serif;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.01em;
+    line-height: 1.5;
+    vertical-align: 2px;
+  }
+  .pub-title .tag + .tag { margin-left: 4px; }
+
+  .topics-legend {
+    margin: -6px 0 24px;
+    padding: 12px 16px;
+    background: var(--bg-alt);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 4px 4px 0;
+    line-height: 1.7;
+  }
+  .topics-legend strong {
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 8px;
+  }
+  .topics-legend .t {
+    display: inline-block;
+    margin: 0 2px;
+    color: var(--text);
+    font-size: 15.5px;
+  }
+  .topics-legend .t + .t::before {
+    content: " · ";
+    color: var(--text-mute);
+    margin: 0 2px;
+    font-size: 15.5px;
+  }
+  .pub-links {
+    font-size: 14.5px;
+  }
+  .pub-links a {
+    color: var(--text-soft);
+    text-decoration: none;
+  }
+  .pub-links a:hover { color: var(--accent); }
+  .pub-links a + a::before {
+    content: " · ";
+    color: var(--text-mute);
+    margin: 0 4px;
+  }
+
+
+  /* ===== Mobile ===== */
+  @media (max-width: 600px) {
+    .wrap { padding: 36px 20px 60px; }
+    h1 { font-size: 32px; }
+    h1 .cn { display: block; margin-left: 0; margin-top: 4px; font-size: 22px; }
+    h2 { font-size: 22px; }
+    nav.top { gap: 4px 0; }
+    nav.top a { margin-right: 14px; font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== Top nav ===== -->
+<nav class="top">
+  <a href="#about">About</a>
+  <a href="#education">Education</a>
+  <a href="#experience">Work Experience</a>
+  <a href="#publications">Publications</a>
+</nav>
+
+<div class="wrap">
+
+  <!-- ===== Hero ===== -->
+  <section id="about">
+    <h1>Zongqian Li</h1>
+
+    <p class="role">
+      Ph.D. Student @ University of Cambridge
+    </p>
+
+    <p class="social">
+      <a href="mailto:zl510@cam.ac.uk">Email</a>
+      <a href="https://scholar.google.com/citations?user=NKqPyd0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://github.com/ZongqianLi" target="_blank" rel="noopener">GitHub</a>
+    </p>
+  </section>
+
+  <hr />
+
+  <!-- ===== Education ===== -->
+  <section id="education">
+    <h2>Education</h2>
+
+    <div class="edu-timeline">
+      <div class="edu-item">
+        <div class="edu-head">University of Cambridge<span class="date">2024.01 – Now</span></div>
+        <div class="edu-row role">PhD in Natural Language Processing</div>
+        <div class="edu-row">Supervisor: <a href="https://scholar.google.com/citations?user=ZMelBa0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Prof. Nigel Collier</a></div>
+        <div class="edu-row">Fully funded by Cambridge International Scholarship, <span class="hl">Cambridge Trust Scholar</span></div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head">University of Cambridge<span class="date">2023.10 – 2024.01</span></div>
+        <div class="edu-row role">MPhil in Physics</div>
+        <div class="edu-row">Supervisor: <a href="https://scholar.google.co.uk/citations?user=-T0-26sAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Prof. Jacqueline Cole</a></div>
+        <div class="edu-row">Member of St John's College</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head">Queen Mary University of London<span class="date">2018.09 – 2022.06</span></div>
+        <div class="edu-row role">BEng with Hons in Materials Science and Engineering</div>
+        <div class="edu-row">First Class with Honours, Rank <span class="hl">1/234</span> in school</div>
+        <div class="edu-row">Distinguished Student Scholar (<span class="hl">Top 0.03%</span>)</div>
+      </div>
+    </div>
+
+  </section>
+
+  <hr />
+
+  <!-- ===== Work Experience ===== -->
+  <section id="experience">
+    <h2>Work Experience</h2>
+
+    <div class="edu-timeline">
+      <div class="edu-item">
+        <div class="edu-head">Google<span class="date">2026.05 – 2026.09</span></div>
+        <div class="edu-row role">Student Researcher</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head">Microsoft Research Asia<span class="date">2025.06 – 2026.04</span></div>
+        <div class="edu-row role">Research Intern</div>
+        <div class="edu-row">Supervisor: <a href="https://buaahsh.github.io/" target="_blank" rel="noopener">Dr. Shaohan Huang</a>, <a href="https://www.microsoft.com/en-us/research/people/fuwei/" target="_blank" rel="noopener">Dr. Furu Wei</a></div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head"><span>Sequoia Capital China<span class="tagline">(Hongshan Capital)</span></span><span class="date">2025.10 – 2026.04</span></div>
+        <div class="edu-row role">Research &amp; Investment Fellow</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head"><span>ZhenFund<span class="tagline">(Top 2 Early-stage VC in China)</span></span><span class="date">2023.07 – 2024.01</span></div>
+        <div class="edu-row role">Investment Intern</div>
+        <div class="edu-row">Mentor: Partner Yuan Liu</div>
+      </div>
+
+      <div class="edu-item">
+        <div class="edu-head">Deloitte<span class="date">2023.04 – 2023.07</span></div>
+        <div class="edu-row role">NLP Developer</div>
+        <div class="edu-row">Mentor: Associate Chenglong Li</div>
+      </div>
+
+      <div class="edu-item hidden">
+        <div class="edu-head"><span>Tsinghua University<span class="tagline">(Department of Computer Science and Technology)</span></span><span class="date">2022.05 – 2022.10</span></div>
+        <div class="edu-row role">Research Intern</div>
+        <div class="edu-row">Supervisor: <a href="https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Prof. Jie Tang</a>, <a href="https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Prof. Juanzi Li</a>, <a href="https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Dr. Jifan Yu</a></div>
+      </div>
+    </div>
+
+    <button class="edu-show-more" id="expShowMore">Show more ↓</button>
+
+  </section>
+
+  <hr />
+
+  <!-- ===== Selected Papers ===== -->
+  <section id="publications">
+    <h2>Selected Papers</h2>
+
+    <div class="topics-legend">
+      <strong>Topics</strong>
+      <span class="t">Data</span><span class="t">Pretraining</span><span class="t">Finetuning</span><span class="t">Reinforcement Learning</span><span class="t">Reasoning</span><span class="t">Agent</span><span class="t">Evaluation</span><span class="t">Efficiency</span><span class="t">Speech</span>
+    </div>
+
+    <!-- 1 -->
+    <div class="pub">
+      <div class="pub-title">Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models <span class="tag">Reinforcement Learning</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, Li Dong, Nigel Collier, Furu Wei</div>
+      <div class="pub-venue"><strong>Under Review</strong></div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2603.07777" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/MicroCoder" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 2 -->
+    <div class="pub">
+      <div class="pub-title">Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems <span class="tag">Data</span><span class="tag">Reinforcement Learning</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei</div>
+      <div class="pub-venue"><strong>Under Review</strong></div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2603.07779" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/MicroCoder" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="pub" id="pub-ptmoe">
+      <div class="pub-title">PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <span class="tag">Finetuning</span><span class="tag">Efficiency</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Yixuan Su, Nigel Collier</div>
+      <div class="pub-venue"><strong>NeurIPS 2025 Main</strong></div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2505.09519" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/PT-MoE/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/PT-MoE" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="pub" id="pub-500x">
+      <div class="pub-title">500xCompressor: Generalized Prompt Compression for Large Language Models <span class="tag">Reasoning</span><span class="tag">Efficiency</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Yixuan Su, Nigel Collier</div>
+      <div class="pub-venue"><strong>ACL 2025 Main Long</strong></div>
+      <div class="pub-links">
+        <a href="https://aclanthology.org/2025.acl-long.1219/" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/500xCompressor/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/500xCompressor/tree/main" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="pub">
+      <div class="pub-title">ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths <span class="tag">Reasoning</span><span class="tag">Efficiency</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Ehsan Shareghi, Nigel Collier</div>
+      <div class="pub-venue"><strong>ACL 2025 Demo (GitHub 500+ Stars)</strong></div>
+      <div class="pub-links">
+        <a href="https://aclanthology.org/2025.acl-demo.14/" target="_blank" rel="noopener">Paper</a>
+        <a href="https://huggingface.co/spaces/ZongqianLi/ReasonGraph" target="_blank" rel="noopener">Demo</a>
+        <a href="https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/ReasonGraph" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="pub" id="pub-flexilora">
+      <div class="pub-title">Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks <span class="tag">Finetuning</span><span class="tag">Efficiency</span><span class="tag">Speech</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier</div>
+      <div class="pub-venue"><strong>ICASSP 2026 Main</strong></div>
+    </div>
+
+    <!-- 7 -->
+    <div class="pub">
+      <div class="pub-title">Prompt Compression for Large Language Models: A Survey <span class="tag">Efficiency</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Yinhong Liu, Yixuan Su, Nigel Collier</div>
+      <div class="pub-venue"><strong>NAACL 2025 Main Long (Selected Oral)</strong></div>
+      <div class="pub-links">
+        <a href="https://aclanthology.org/2025.naacl-long.368/" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/Prompt-Compression-Survey" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 8 -->
+    <div class="pub">
+      <div class="pub-title">Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <span class="tag">Data</span><span class="tag">Pretraining</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Jacquiline Cole</div>
+      <div class="pub-venue"><strong>Digital Discovery (Q1)</strong></div>
+      <div class="pub-links">
+        <a href="https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a" target="_blank" rel="noopener">Paper</a>
+      </div>
+    </div>
+
+    <!-- 9 -->
+    <div class="pub">
+      <div class="pub-title">A Survey on Prompt Tuning <span class="tag">Finetuning</span></div>
+      <div class="pub-authors"><span class="me">Zongqian Li</span>, Yixuan Su, Nigel Collier</div>
+      <div class="pub-venue"><strong>ICML 2025 Workshop</strong></div>
+      <div class="pub-links">
+        <a href="https://www.arxiv.org/abs/2507.06085" target="_blank" rel="noopener">Paper</a>
+        <a href="https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md" target="_blank" rel="noopener">Project</a>
+        <a href="https://github.com/ZongqianLi/Prompt-Tuning-Survey" target="_blank" rel="noopener">Code</a>
+      </div>
+    </div>
+
+    <!-- 10 -->
+    <div class="pub">
+      <div class="pub-title">General Scales Unlock AI Evaluation with Explanatory and Predictive Power <span class="tag">Evaluation</span></div>
+      <div class="pub-authors">Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, …, <span class="me">Zongqian Li</span>, …, Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo</div>
+      <div class="pub-venue"><strong>Nature</strong></div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/pdf/2503.06378" target="_blank" rel="noopener">Paper</a>
+        <a href="https://kinds-of-intelligence-cfi.github.io/ADELE/" target="_blank" rel="noopener">Project</a>
+      </div>
+    </div>
+
+  </section>
+
+</div>
+
+<script>
+
+  // Work Experience Show More toggle
+  const expShowMore = document.getElementById('expShowMore');
+  const expHidden = document.querySelectorAll('#experience .edu-item.hidden');
+  expShowMore.onclick = (() => {
+    let open = false;
+    const original = Array.from(expHidden);
+    return () => {
+      open = !open;
+      original.forEach(el => {
+        if (open) el.classList.remove('hidden');
+        else el.classList.add('hidden');
+      });
+      expShowMore.textContent = open ? 'Show less ↑' : 'Show more ↓';
+    };
+  })();
+
+  // Active nav highlight on scroll
+  (() => {
+    const navLinks = document.querySelectorAll('nav.top a');
+    const sections = ['about', 'education', 'experience', 'publications']
+      .map(id => document.getElementById(id))
+      .filter(Boolean);
+
+    function setActive(id) {
+      navLinks.forEach(a => {
+        a.classList.toggle('active', a.getAttribute('href') === '#' + id);
+      });
+    }
+
+    function onScroll() {
+      const y = window.scrollY + 90; // nav height offset
+      let current = sections[0]?.id || '';
+      for (const s of sections) {
+        if (s.offsetTop <= y) current = s.id;
+      }
+      setActive(current);
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script>
+
+</body>
+</html>
