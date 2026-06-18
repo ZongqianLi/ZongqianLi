@@ -31,6 +31,9 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 🏔️ Experiences
 
+- <strong><span style="color: #03396c;">[2026.05-2026.09] Google</span></strong>   
+  Student Researcher  
+
 - <strong><span style="color: #03396c;">[2025.06-2026.04] Microsoft Research Asia</span></strong>   
   Research Intern   
   Supervisor: [Dr. Shaohan Huang](https://buaahsh.github.io/), [Dr. Furu Wei](https://www.microsoft.com/en-us/research/people/fuwei/)   
