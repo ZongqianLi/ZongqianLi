@@ -33,27 +33,37 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 - <strong><span style="color: #03396c;">[2026.05-2026.09] Google</span></strong>   
   Student Researcher  
+  Self-Evolving Coding Agents for Automated Research in Finance, Algorithm Design, and Model Training
+
+- <strong><span style="color: #03396c;">[2026.04-Now] ClawAll</span></strong>  
+  Founder  
+  Multimodal Agent-to-Agent Platform for Shopping, Recruiting, Trading, Healthcare, Legal, and More (X for Agents)  
 
 - <strong><span style="color: #03396c;">[2025.06-2026.04] Microsoft Research Asia</span></strong>   
   Research Intern   
-  Supervisor: [Dr. Shaohan Huang](https://buaahsh.github.io/), [Dr. Furu Wei](https://www.microsoft.com/en-us/research/people/fuwei/)   
+  Supervisor: [Dr. Shaohan Huang](https://buaahsh.github.io/), [Dr. Furu Wei](https://www.microsoft.com/en-us/research/people/fuwei/)  
+  Data Curation, Reinforcement Learning, and Product Development for Coding Agents  
 
 - <strong><span style="color: #03396c;">[2025.10-2026.04] Sequoia Capital China</span></strong>   
   Research & Investment Fellow  
+  Model Evaluation for Financial Tasks, AI Technology Research, Startup Investment  
 
 - <strong><span style="color: #03396c;">[2023.07-2024.01] ZhenFund</span></strong>   
   Top 2 Early-stage VC in China  
   Investment Intern  
   Mentor: Partner Yuan Liu  
+  Agents for Startup Sourcing, Strategy Research, Startup Investment, Due Diligence  
 
 - <strong><span style="color: #03396c;">[2023.04-2023.07] Deloitte</span></strong>   
   NLP Developer  
-  Mentor: Associate Chenglong Li
+  Mentor: Associate Chenglong Li  
+  ChatGPT Finetuning for Financial Tasks, Digital Consulting Pipeline  
 
 - <strong><span style="color: #03396c;">[2022.05-2022.10] Tsinghua University</span></strong>   
   Department of Computer Science and Technology  
   Research Intern  
-  Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)   
+  Supervisor: [Prof. Jie Tang](https://scholar.google.co.uk/citations?user=n1zDCkQAAAAJ&hl=en&oi=ao), [Prof. Juanzi Li](https://scholar.google.co.uk/citations?user=SgNB-ioAAAAJ&hl=en&oi=ao), [Dr. Jifan Yu](https://scholar.google.co.uk/citations?user=6cS9CVEAAAAJ&hl=en&oi=ao)  
+  LLM Training and Applications in Health and Psychology  
 
 <div>&nbsp;</div>
 
