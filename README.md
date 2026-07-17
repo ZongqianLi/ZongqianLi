@@ -71,7 +71,15 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📝 Publications 
 
-**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>**
+**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>, Agent <sup>A</sup>**
+
+- **AutoScientist: Recursive Self-Improvement for Coding Agents in Long-Horizon Tasks <sup>A</sup>**  
+  **Zongqian Li**, Yaoyiran Li, Yaohui Guo, Nigel Collier, Ming Zhang, Eugene Le  
+  **_Work in Progress_**  
+
+- **AutoScientist-Quant: Self-Evolving Agent Swarms for Automated Research in Quantitative Finance <sup>A</sup>**  
+  **Zongqian Li**, Yaoyiran Li, Yaohui Guo, Nigel Collier, Ming Zhang, Eugene Le  
+  **_Under Review_**  
 
 - **Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models <sup>TR</sup>** [[Paper]](https://arxiv.org/abs/2603.07777) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)  
   **Zongqian Li**, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, Li Dong, Nigel Collier, Furu Wei  
