@@ -10,7 +10,7 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📕 Education 
 
-- <strong><span style="color: #03396c;">[2024.01-Now] Univeristy of Cambridge</span></strong>  
+- <strong><span style="color: #03396c;">[2024.01-Now] University of Cambridge</span></strong>  
   PhD in Natural Language Processing  
   Supervisor: [Prof. Nigel Collier](https://scholar.google.com/citations?user=ZMelBa0AAAAJ&hl=en&oi=ao)  
   Fully funded by Cambridge International Scholarship, **Cambridge Trust Scholar**  
@@ -71,53 +71,53 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 ## 📝 Publications 
 
-**Topics: Efficiency <sup>E</sup>, Model Training <sup>T</sup>, Data <sup>D</sup>, Reasoning <sup>R</sup>, Survey <sup>S</sup>, Evaluation <sup>V</sup>, Agent <sup>A</sup>**
+**Topics: Data <sup>D</sup>, Pretraining <sup>P</sup>, Finetuning <sup>F</sup>, Reinforcement Learning <sup>RL</sup>, Reasoning <sup>R</sup>, Agent <sup>A</sup>, Evaluation <sup>V</sup>, Efficiency <sup>E</sup>, Speech <sup>S</sup>**
 
 **[12] AutoScientist: Recursive Self-Improvement for Coding Agents in Long-Horizon Tasks <sup>A</sup>**<br>
-&emsp;&emsp;**Zongqian Li**, Yaoyiran Li, Yaohui Guo, Nigel Collier, Ming Zhang, Eugene Le<br>
+&emsp;&emsp;**Zongqian Li**, Yaoyiran Li, Yaohui Guo, Ming Zhang, Nigel Collier, Eugene Ie<br>
 &emsp;&emsp;**_Work in Progress_**
 
-**[11] AutoScientist-Quant: Self-Evolving Agent Swarms for Automated Research in Quantitative Finance <sup>A</sup>**<br>
-&emsp;&emsp;**Zongqian Li**, Yaoyiran Li, Yaohui Guo, Nigel Collier, Ming Zhang, Eugene Le<br>
+**[11] AutoScientist-Quant: Self-Evolving Coding Agents for Automatic Research in Quantitative Investment <sup>A</sup>** [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7300218)<br>
+&emsp;&emsp;**Zongqian Li**, Yaoyiran Li, Yaohui Guo, Ming Zhang, Nigel Collier, Eugene Ie<br>
 &emsp;&emsp;**_Under Review_**
 
-**[10] Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models <sup>TR</sup>** [[Paper]](https://arxiv.org/abs/2603.07777) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)<br>
+**[10] Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models <sup>RL</sup>** [[Paper]](https://arxiv.org/abs/2603.07777) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)<br>
 &emsp;&emsp;**Zongqian Li**, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, Li Dong, Nigel Collier, Furu Wei<br>
 &emsp;&emsp;**_Under Review_**
 
-**[9] Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems** [[Paper]](https://arxiv.org/abs/2603.07779) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)<br>
+**[9] Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems <sup>D,RL</sup>** [[Paper]](https://arxiv.org/abs/2603.07779) [[Page]](https://github.com/ZongqianLi/MicroCoder/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/MicroCoder)<br>
 &emsp;&emsp;**Zongqian Li**, Tengchao Lv, Shaohan Huang, Yixuan Su, Qinzheng Sun, Qiufeng Yin, Ying Xin, Scarlett Li, Lei Cui, Nigel Collier, Furu Wei<br>
 &emsp;&emsp;**_Under Review_**
 
-**[8] 500xCompressor: Generalized Prompt Compression for Large Language Models <sup>ET</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)<br>
-&emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
-&emsp;&emsp;**_ACL 2025 Main Long_**
-
-**[7] PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>ET</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)<br>
+**[8] PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>F,E</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
 &emsp;&emsp;**_NeurIPS 2025 Main_**
 
-**[6] Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks <sup>ET</sup>** [[Paper]](https://ieeexplore.ieee.org/document/11462836)<br>
+**[7] 500xCompressor: Generalized Prompt Compression for Large Language Models <sup>R,E</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)<br>
+&emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
+&emsp;&emsp;**_ACL 2025 Main Long_**
+
+**[6] ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths <sup>R,E</sup>** [[Paper]](https://aclanthology.org/2025.acl-demo.14/) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)<br>
+&emsp;&emsp;**Zongqian Li**, Ehsan Shareghi, Nigel Collier<br>
+&emsp;&emsp;**_ACL 2025 Demo (GitHub 500+ Stars)_**
+
+**[5] Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks <sup>F,E,S</sup>** [[Paper]](https://ieeexplore.ieee.org/document/11462836)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier<br>
 &emsp;&emsp;**_ICASSP 2026 Main_**
 
-**[5] Prompt Compression for Large Language Models: A Survey <sup>ES</sup>** [[Paper]](https://aclanthology.org/2025.naacl-long.368/) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)<br>
+**[4] Prompt Compression for Large Language Models: A Survey <sup>E</sup>** [[Paper]](https://aclanthology.org/2025.naacl-long.368/) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)<br>
 &emsp;&emsp;**Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier<br>
 &emsp;&emsp;**_NAACL 2025 Main Long (Selected Oral)_**
 
-**[4] Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>ETD</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)<br>
-&emsp;&emsp;**Zongqian Li**, Jacquiline Cole<br>
+**[3] Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>D,P</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)<br>
+&emsp;&emsp;**Zongqian Li**, Jacqueline Cole<br>
 &emsp;&emsp;**_Digital Discovery (Q1)_**
 
-**[3] ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths <sup>R</sup>** [[Paper]](https://aclanthology.org/2025.acl-demo.14/) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)<br>
-&emsp;&emsp;**Zongqian Li**, Ehsan Shareghi, Nigel Collier<br>
-&emsp;&emsp;**_ACL 2025 Demo (Github 500+ Stars)_**
-
-**[2] A Survey on Prompt Tuning <sup>ES</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)<br>
+**[2] A Survey on Prompt Tuning <sup>F</sup>** [[Paper]](https://www.arxiv.org/abs/2507.06085) [[Page]](https://github.com/ZongqianLi/Prompt-Tuning-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Tuning-Survey)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
 &emsp;&emsp;**_ICML 2025 Workshop_**
 
-**[1] General Scales Unlock AI Evaluation with Explanatory and Predictive Power <sup>V</sup>** [[Paper]](https://arxiv.org/pdf/2503.06378) [[Page]](https://kinds-of-intelligence-cfi.github.io/ADELE/)<br>
+**[1] General Scales Unlock AI Evaluation with Explanatory and Predictive Power <sup>V</sup>** [[Paper]](https://www.nature.com/articles/s41586-026-10303-2) [[Page]](https://kinds-of-intelligence-cfi.github.io/ADELE/)<br>
 &emsp;&emsp;Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, ..., **Zongqian Li**, ..., Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo<br>
 &emsp;&emsp;**_Nature_**
 
