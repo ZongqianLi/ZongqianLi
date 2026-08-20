@@ -91,23 +91,23 @@ I am Zongqian Li, a PhD student in Natural Language Processing at Cambridge. I a
 
 **[8] PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning <sup>F,E</sup>** [[Paper]](https://arxiv.org/abs/2505.09519) [[Page]](https://github.com/ZongqianLi/PT-MoE/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/PT-MoE)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
-&emsp;&emsp;**_NeurIPS 2025 Main_**
+&emsp;&emsp;**_NeurIPS 2025_**
 
 **[7] 500xCompressor: Generalized Prompt Compression for Large Language Models <sup>R,E</sup>** [[Paper]](https://aclanthology.org/2025.acl-long.1219/) [[Page]](https://github.com/ZongqianLi/500xCompressor/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/500xCompressor/tree/main)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Nigel Collier<br>
-&emsp;&emsp;**_ACL 2025 Main Long_**
+&emsp;&emsp;**_ACL 2025_**
 
 **[6] ReasonGraph: Visualization of Reasoning Methods and Extended Inference Paths <sup>R,E</sup>** [[Paper]](https://aclanthology.org/2025.acl-demo.14/) [[Demo]](https://huggingface.co/spaces/ZongqianLi/ReasonGraph) [[Page]](https://github.com/ZongqianLi/ReasonGraph/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/ReasonGraph)<br>
 &emsp;&emsp;**Zongqian Li**, Ehsan Shareghi, Nigel Collier<br>
-&emsp;&emsp;**_ACL 2025 Demo (GitHub 500+ Stars)_**
+&emsp;&emsp;**_ACL 2025 (GitHub 500+ Stars)_**
 
 **[5] Flexi-LoRA with Input-Adaptive Ranks: Efficient Finetuning for Speech and Reasoning Tasks <sup>F,E,S</sup>** [[Paper]](https://ieeexplore.ieee.org/document/11462836)<br>
 &emsp;&emsp;**Zongqian Li**, Yixuan Su, Han Zhou, Zihao Fu, Nigel Collier<br>
-&emsp;&emsp;**_ICASSP 2026 Main_**
+&emsp;&emsp;**_ICASSP 2026_**
 
 **[4] Prompt Compression for Large Language Models: A Survey <sup>E</sup>** [[Paper]](https://aclanthology.org/2025.naacl-long.368/) [[Page]](https://github.com/ZongqianLi/Prompt-Compression-Survey/blob/main/README.md) [[Github]](https://github.com/ZongqianLi/Prompt-Compression-Survey)<br>
 &emsp;&emsp;**Zongqian Li**, Yinhong Liu, Yixuan Su, Nigel Collier<br>
-&emsp;&emsp;**_NAACL 2025 Main Long (Selected Oral)_**
+&emsp;&emsp;**_NAACL 2025 (Selected Oral)_**
 
 **[3] Auto-generating Question-answering Datasets with Domain-specific Knowledge for Language Models in Scientific Tasks <sup>D,P</sup>** [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00307a)<br>
 &emsp;&emsp;**Zongqian Li**, Jacqueline Cole<br>
